@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=e5sKiHAMxHQ
 
 <h2>Details</h2>
 <p>
-The project is used as a library for other different projects and purposes, it does not directly use a drone since it does not affect it, it gathers information from it and this information is used for various things, in other words, it is a useful tool for other new ideas. and as mentioned in the PDF below, the project can be used with virtually any moving objects, not only a drone. 
+The project is used as a library for other different projects and purposes, it does not directly use a drone since it does not affect it, it gathers information from it and this information is used for various things, in other words, it is a useful tool for other new ideas. This library can be used with virtually any moving objects, not only a drone. 
 </p>
 
 <b>Software Info: </b>
